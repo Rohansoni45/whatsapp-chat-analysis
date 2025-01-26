@@ -57,6 +57,9 @@ Follow these steps to run the project locally:
 ### Word Cloud
 ![Word Cloud](https://github.com/Rohansoni45/whatsapp-chat-analysis/blob/master/images/wordcloud.PNG)
 
+### Top Contributors
+![Top Contributors]()
+
 ## Future Enhancements
 - Adding support for multimedia content analysis.
 - Multi-language support for chats in different languages.
