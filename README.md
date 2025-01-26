@@ -52,13 +52,10 @@ Follow these steps to run the project locally:
 
 ## Screenshots
 ### Chat Statistics
-![Chat Statistics]()
+![Chat Statistics](https://github.com/Rohansoni45/whatsapp-chat-analysis/blob/master/images/chat%20statistics.PNG)
 
 ### Word Cloud
 ![Word Cloud]()
-
-### Top Contributors
-![Top Contributors]()
 
 ## Future Enhancements
 - Adding support for multimedia content analysis.
