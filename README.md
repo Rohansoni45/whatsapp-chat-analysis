@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone <REPOSITORY_LINK>
+   git clone <https://github.com/Rohansoni45/whatsapp-chat-analysis.git>
    ```
 
 2. Navigate to the project directory:
