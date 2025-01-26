@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 ![Chat Statistics](https://github.com/Rohansoni45/whatsapp-chat-analysis/blob/master/images/chat%20statistics.PNG)
 
 ### Word Cloud
-![Word Cloud]()
+![Word Cloud](https://github.com/Rohansoni45/whatsapp-chat-analysis/blob/master/images/wordcloud.PNG)
 
 ## Future Enhancements
 - Adding support for multimedia content analysis.
